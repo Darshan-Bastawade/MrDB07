@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/SciPy-654FF0?style=plastic&logo=SciPy&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
