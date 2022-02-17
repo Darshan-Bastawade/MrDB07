@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=plastic&logo=windows%20terminal&logoColor=white" height=20>
 </p>
 
-<img alt="gif Code" src="https://raw.githubusercontent.com/MrDB07/MrDB07/master/code.gif" width="100%" height="auto"/>
 
 ![Profile views](https://gpvc.arturio.dev/MrDB07)
 
