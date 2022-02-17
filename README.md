@@ -6,13 +6,13 @@
 <h2 align="center">You can connect Me with</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/rishikesh-mane-620908186/">
-    <img src="https://img.shields.io/badge/RishikeshMane-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/" height=20>
+    <img src="https://img.shields.io/badge/MrDB07-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/" height=20>
   </a>
   <a href="https://www.facebook.com/rex.spec/">
-    <img src="https://img.shields.io/badge/rex.spec-3A549E?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/" height=20>
+    <img src="https://img.shields.io/badge/MrDB07c-3A549E?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/" height=20>
   </a>
   <a href="https://www.instagram.com/geeky_rex/">
-    <img src="https://img.shields.io/badge/geeky_rex-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/" height=20>
+    <img src="https://img.shields.io/badge/MrDB07-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/" height=20>
   </a>
 </p>
 
